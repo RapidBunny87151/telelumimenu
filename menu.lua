@@ -1,7 +1,7 @@
 --[[
 GojoMaster.lua
 Loadstring-kompatibel: Einfach per
-loadstring(game:loadstring(game:HttpGet("https://raw.githubusercontent.com/RapidBunny87151/telelumimenu/blob/main/menu.lua"))()"))()
+loadstring(game:loadstring(game:HttpGet("https://raw.githubusercontent.com/RapidBunny87151/telelumimenu.git)"))()"))()
 ausführen
 ]]
 
