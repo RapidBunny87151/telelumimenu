@@ -1,4 +1,4 @@
-loadstring(game:loadstring(game:HttpGet("https://raw.githubusercontent.com/RapidBunny87151/telelumimenu.git)"))()"))()
+loadstring(game:loadstring(game:HttpGet("https://raw.githubusercontent.com/RapidBunny87151/telelumimenu/blob/main/menu.lua)"))()"))()
 ]] -- Xeno RBX Fertiges GUI Menu (Copy & Paste ready)
 -- Injektor: Xeno | Executor: Script-Ware/Synapse
 
