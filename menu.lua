@@ -1,4 +1,4 @@
-loadstring(game):loadstring(game):HttpGet("https://raw.githubusercontent.com/RapidBunny87151/telelumimenu/blob/main/menu.lua)"))()"))()
+loadstring(game):loadstring(game):HttpGet("https://raw.githubusercontent.com/RapidBunny87151/telelumimenu/blob/main)"))()"))()
 ocal RunService = game:GetService("RunService")
 local enabled = false  -- Wird mit dem Toggle verbunden.
 
